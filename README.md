@@ -7,7 +7,7 @@
 
 ## 目录
 
-[简介](./Introduction.md)
+[简介：编写AI代码是新的识字能力](./Introduction.md)
 
 
 
