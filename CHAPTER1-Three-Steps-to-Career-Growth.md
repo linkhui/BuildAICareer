@@ -27,11 +27,3 @@ AI的快速崛起带来了大量相关工作，许多人在这个领域创造令
 
 当你完成了这里的每一步，你也需要建立一个支持性的社区。有能帮助你的朋友——你也可以帮助他们——将使这条路径更容易些。无论你是刚开始第一步或者你已经工作了多年，这都有帮助。
 
-
-unique 独特的
-nascent 起步阶段
-evolving 不断发展
-are maturing 逐渐成熟
-come up with 制定
-Inconsistent 不一致
-educate potential employers”翻译为“向潜在雇主解释”
