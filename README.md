@@ -11,6 +11,7 @@
 
 [第一章 职业成长三个步骤](./CHAPTER1-Three-Steps-to-Career-Growth.md)
 
+[第二章 为了有前景的AI职业生涯学习技能](./CHAPTER2-Learning-TechnicalSkills-for-a-PromisingAI-Career.md)
 
 
 
