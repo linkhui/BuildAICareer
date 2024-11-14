@@ -13,5 +13,6 @@
 
 [第二章 为了有前景的AI职业生涯学习技能](./CHAPTER2-Learning-TechnicalSkills-for-a-PromisingAI-Career.md)
 
+[第三章 你需要学习数学以便获得一份AI相关的工作吗？](./CHAPTER3-Should-You-Learn-Math-to-Get-a-Job-in-AI?.md)
 
 
