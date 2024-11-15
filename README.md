@@ -15,4 +15,8 @@
 
 [第三章 你需要学习数学以便获得一份AI相关的工作吗？](./CHAPTER3-Should-You-Learn-Math-to-Get-a-Job-in-AI?.md)
 
+[第四章 制定成功的AI项目范围](./CHAPTER4-Scoping-Successful-AI-Projects.md)
 
+[第五章 找到符合你职业目标的项目](./CHAPTER5-Finding-Projects-that-Complement-Your-Career-Goals.md)
+
+[第六章 构建项目集来展示技能进展](./CHAPTER6-Building-a-Portfolio-of-Projects-that-Shows-Skill-Progression.md)
