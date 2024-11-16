@@ -20,3 +20,5 @@
 [第五章 找到符合你职业目标的项目](./CHAPTER5-Finding-Projects-that-Complement-Your-Career-Goals.md)
 
 [第六章 构建项目集来展示技能进展](./CHAPTER6-Building-a-Portfolio-of-Projects-that-Shows-Skill-Progression.md)
+
+[第七章 开始找AI工作的一个简单框架](./CHAPTER7-A-Simple-Framework-for-Starting-Your-AI-Job-Search.md)
