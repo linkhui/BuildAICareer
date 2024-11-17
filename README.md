@@ -28,3 +28,7 @@
 [第九章 找到适合你的AI工作](./CHAPTER9-Finding-the-Right-AI-Job-for-You.md)
 
 [第十章 构建AI职业生涯的关键](./CHAPTER10-Keys-to-Building-a-Career-in-AI.md)
+
+[第十一章 克服冒名顶替综合征](./CHAPTER11-Overcoming-Imposter-Syndrome.md)
+
+[最后的思考](./Final-Thoughts.md)
