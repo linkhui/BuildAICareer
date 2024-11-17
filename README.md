@@ -22,3 +22,9 @@
 [第六章 构建项目集来展示技能进展](./CHAPTER6-Building-a-Portfolio-of-Projects-that-Shows-Skill-Progression.md)
 
 [第七章 开始找AI工作的一个简单框架](./CHAPTER7-A-Simple-Framework-for-Starting-Your-AI-Job-Search.md)
+
+[第八章 通过信息性面谈找到合适的工作](./CHAPTER8-Using-Informational-Interviews-to-Find-the-Right-Job.md)
+
+[第九章 找到适合你的AI工作](./CHAPTER9-Finding-the-Right-AI-Job-for-You.md)
+
+[第十章 构建AI职业生涯的关键](./CHAPTER10-Keys-to-Building-a-Career-in-AI.md)
