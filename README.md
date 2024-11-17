@@ -4,6 +4,13 @@
 
 也作为自己AI学习的一个记录，整个翻译先自己翻译，然后使用了AI辅助，一方面提升自己的英语水平，也避免对AI的完全依赖导致的独立思考能力的丧失。
 
+原本计划约两周的翻译，最终8天完成了。🎉
+
+翻译过程也学到了很多：
+- 有关于AI基础能力学习方法的，有怎么通过AI项目持续学习的，也有怎么找到AI相关工作的。
+- 还有一些跟思维和软技能相关的，比如：[第2章](./CHAPTER2-Learning-TechnicalSkills-for-a-PromisingAI-Career.md)提到的习惯的养成，[第5章](./CHAPTER5-Finding-Projects-that-Complement-Your-Career-Goals.md)建议的“准备、开火、瞄准”的方法论，[第11章](./CHAPTER11-Overcoming-Imposter-Syndrome.md)整个内容在谈的克服冒名综合征。
+- 也收集了这个过程中学到的[66个单词/词组](./The-Words-For-Me.md)
+
 
 ## 目录
 
